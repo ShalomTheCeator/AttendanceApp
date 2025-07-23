@@ -25,7 +25,7 @@ A mobile attendance system for students built with React Native and Expo. It use
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/AttendanceApp.git
+git clone https://github.com/ShalomTheCeator/AttendanceApp.git
 cd AttendanceApp
 npm install
 npx expo start
